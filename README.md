@@ -8,8 +8,9 @@ FLOWCHART OF THE ACTIVITY LIFECYCLE
 
 
 Each event in the activity lifecycle is displayed in the log
- ============================
-                            
+ =
+============================ 
+
 1.WHEN THE APP IS LAUNCHED  
 
  ============================
