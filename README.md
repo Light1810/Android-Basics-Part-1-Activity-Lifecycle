@@ -1,9 +1,13 @@
+ =================================
+                            
+FLOWCHART OF THE ACTIVITY LIFECYCLE
+
+ ==================================
+
 ![activity_lifecycle](https://user-images.githubusercontent.com/49367575/60115935-a888c380-9794-11e9-8b4f-6261a05b3466.png)
 
-FIG: A simplified illustration of the activity lifecycle
 
 Each event in the activity lifecycle is displayed in the log
-
  ============================
                             
 1.WHEN THE APP IS LAUNCHED  
